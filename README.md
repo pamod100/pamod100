@@ -5,10 +5,11 @@
 
 ---
 
-### 🚀 What I’ve Worked On
+### 🚀 What I've Worked On
 * 📱 **TechCare:** Developed a native Android app for device repair services using Java and SQLite.
 * 🏥 **Medicare Plus:** Built a secure full-stack healthcare web application using PHP and MySQL.
-* 🎮 **Educational Projects:** Contributed to projects like BrainPath and educational games.
+* 📚 **BrainPath:** An educational roadmap app (currently serving as QA on this team project).
+* 💡 **BookHaven:** A book management system built with Java and NetBeans.
 
 ### 🌱 Currently Exploring
 * Full-stack development (Java, PHP, JavaScript)
