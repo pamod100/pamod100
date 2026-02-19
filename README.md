@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Pamod Dhananjana
 
-🎓 **Software Engineering Student** at ICBT Campus (Cardiff Metropolitan University)
-🚀 **Passionate about** Java, Android Development, and building real-world solutions.
+*🎓 **Software Engineering Student** at ICBT Campus (Cardiff Metropolitan University)
+*🚀 **Passionate about** Java, Android Development, and building real-world solutions.
 
 ---
 
